@@ -17,8 +17,5 @@ ProcureMind AI is a full-stack MERN application designed to automate the manual,
 - **Database**: MongoDB (Mongoose)
 - **AI Logic**: Integration-ready for OpenAI/Gemini (currently utilizing a high-fidelity mock controller for stable demonstrations).
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/procuremind-ai.git](https://github.com/YOUR_USERNAME/procuremind-ai.git)
+
