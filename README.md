@@ -19,3 +19,4 @@ ProcureMind AI is a full-stack MERN application designed to automate the manual,
 
 
 
+<img width="1914" height="867" alt="Screenshot 2026-01-16 202645" src="https://github.com/user-attachments/assets/4b854570-ad24-4811-a350-80bb2458726a" />
